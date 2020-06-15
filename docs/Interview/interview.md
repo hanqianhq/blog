@@ -84,19 +84,18 @@ ssh root@192.168.31.90
 后来 css3 出现，我尝试用什么。。。<br>
 后来我在博客上看到了还有什么什么技术。。于是尝试使用。。<br>
 
-<p>
+---
 
-##### 记住一共有五中方案
+<strong>记住一共有五中方案</strong>
 
 - 定位三种
 - display：flex
 - javascript
 - display：table-cell
 
-###### 1、定位
+###### 哈哈
 
-`box{ width:100px;height:50px; position:absolute; top:50%; left:50%;margin-top:-25px;margin-left:-50px; }`
-![lena](../images/css/carbon.png)
+<strong> 定位
 
 ## 不同选择器的权重怎么算的
 
@@ -144,8 +143,6 @@ CENTOS 8
 
 ## 移动端的触摸事件了解吗
 
-cd /etc/yum.repos.d
-
 ## Interator 迭代器
 
 ## 闭包怎么理解？项目中用到过吗
@@ -161,11 +158,6 @@ cd /etc/yum.repos.d
 ## 了解 return 吗？
 
 ## AJAX 核心四步操作？交互过程？
-
-#备份旧源数据
-sudo cp CentOS-Base.repo CentOS-Base.repo.bak
-sudo cp CentOS-AppStream.repo CentOS-AppStream.repo.bak
-sudo cp CentOS-Extras.repo CentOS-Extras.repo.bak
 
 ## 底层运行机制：微任务宏任务和事件循环机制
 
